@@ -103,11 +103,29 @@ const cards = [
 	{
 		mark: 'Mercedes-Benz',
 		model: 'GLE',
-		priceDollar: 40500,
-		img: '',
-		year: 2015,
-		volume: 4.4,
-		info: '',
+		priceDollar: 95000,
+		img: 'https://im.mashina.kg/tachka/images//c/b/e/cbe1071934a39b92a06fde735b37b5f0_640x480.jpg',
+		year: 2021,
+		volume: 2.9,
+		info: 'Mercedes-Benz GLE-класс (до 2015 года M-класс[2], от нем. Geländewagen Lang E-Klasse — «удлинённый внедорожник E-класса») — серия среднеразмерных кроссоверов премиум сегмента, выпускаемых с 1997 года немецким автопроизводителем Mercedes-Benz[3]. ',
+	},
+	{
+		mark: 'Toyota',
+		model: 'Supra',
+		priceDollar: 32100,
+		img: 'https://im.mashina.kg/tachka/images//5/1/2/512e6ae7458b70f4561a1514620cd368_640x480.jpg',
+		year: 2020,
+		volume: 3,
+		info: 'Toyota Supra (яп. トヨタ・スープラ) — серийный спортивный автомобиль, выпускающийся компанией Toyota с 1978 года.',
+	},
+	{
+		mark: 'Toyota',
+		model: 'Camry',
+		priceDollar: 16900,
+		img: 'https://im.mashina.kg/tachka/images//4/4/8/448cff596d25acb534efb117d36aa5f2_640x480.jpg',
+		year: 2017,
+		volume: 2.5,
+		info: 'Toyota Camry (яп. トヨタ・カムリ, Кáмри[1]) — автомобиль компании Toyota. Производится на заводах в Японии, США, Австралии, России и Китае, Таиланде. По состоянию на 2023 год выйдет девятое поколение автомобиля. В соответствии с классификацией легковых автомобилей по формальному признаку (габариты), принятой в ЕС, автомобиль принадлежит к сегменту E — «Executive cars», по Euro NCAP — к «Large family car» (сегмент D)[2]',
 	},
 	{
 		mark: 'BMW ',
@@ -119,3 +137,5 @@ const cards = [
 		info: '',
 	},
 ]
+
+
