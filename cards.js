@@ -73,9 +73,8 @@ const cards = [
 		volume: 3,
 		info: 'BMW 7, или седьмая серия BMW — автомобили серии представительского класса. Начиная с 1977 года, было выпущено семь поколений этой серии. В 2022 году компания BMW представила новую BMW 7 в кузове G70. Основными конкурентами BMW 7 являются автомобили Mercedes-Benz S-класс, Audi A8, Lexus LS и Jaguar XJ.',
 	},
-	
 	{
-
+		
 		mark: 'BMW ',
 		model: 'X5 M',
 		priceDollar: 40500,
@@ -130,6 +129,47 @@ const cards = [
 		info: 'Toyota Camry (яп. トヨタ・カムリ, Кáмри[1]) — автомобиль компании Toyota. Производится на заводах в Японии, США, Австралии, России и Китае, Таиланде. По состоянию на 2023 год выйдет девятое поколение автомобиля. В соответствии с классификацией легковых автомобилей по формальному признаку (габариты), принятой в ЕС, автомобиль принадлежит к сегменту E — «Executive cars», по Euro NCAP — к «Large family car» (сегмент D)[2]',
 	},
 	{
+		mark: 'Audi ',
+		model: 'A4',
+		priceDollar: 10800,
+		img: 'https://im.mashina.kg/tachka/images//6/6/c/66c2b4ccb153e3d4092d8fce5abe6926_640x480.jpg',
+		year: 2009,
+		volume: 1.8,
+		info: ' Lorem ipsum dolor sit amet consectetur, adipisicing elit. Aliquam mollitia voluptatibus in omnis error quod odio provident, officia totam dolore fuga ipsa consectetur ex adipisci commodi corporis nesciunt accusantium beatae!',
+	},
+	{
+		mark: 'BMW ',
+		model: 'X5 M',
+		priceDollar: 40500,
+		img: '',
+		year: 2015,
+		volume: 4.4,
+		info: '',
+	},	{
+		mark: 'BMW ',
+		model: 'X5 M',
+		priceDollar: 40500,
+		img: '',
+		year: 2015,
+		volume: 4.4,
+		info: '',
+	},	{
+		mark: 'BMW ',
+		model: 'X5 M',
+		priceDollar: 40500,
+		img: '',
+		year: 2015,
+		volume: 4.4,
+		info: '',
+	},	{
+		mark: 'BMW ',
+		model: 'X5 M',
+		priceDollar: 40500,
+		img: '',
+		year: 2015,
+		volume: 4.4,
+		info: '',
+	},	{
 		mark: 'BMW ',
 		model: 'X5 M',
 		priceDollar: 40500,
